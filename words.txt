@@ -1,0 +1,5 @@
+search vs. search for
+ - search a room 
+ - search for a key
+
+
